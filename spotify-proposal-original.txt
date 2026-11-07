@@ -1,0 +1,264 @@
+ST3188 Market Research Proposal – Spotify
+ST3188 Statistical Methods for Market Research
+Coursework: Market Research Proposal
+Understanding Listener Value, Conversion and Churn: A Market Research Proposal for Spotify Technology S.A.
+Prepared for: Spotify Technology S.A.
+Prepared by: Franco Buenahora and Santiago Silvera
+Academic year: 2026
+Date of submission: [to be completed]
+Table of Contents
+1. Executive Summary
+2. Summary of the Research Brief
+3. Market Context and Secondary Research
+4. Research Design and Fieldwork
+5. Sampling Method and Sampling Frame
+6. Information to be Collected
+7. Use of Client Data
+8. Multivariate Analysis Techniques
+9. Sample Size Determination
+10. Further Research
+11. References
+12. Appendix A: Questionnaire
+1. Executive Summary
+Spotify wants to grow its paid subscriber base profitably, convert more free-tier users, reduce churn, expand in emerging markets and defend its position against Apple Music, YouTube Music and Amazon Music. This proposal sets out a research programme that tells Spotify what drives listeners to pay, stay or leave, how much they value personalisation, which new features they would buy, and how price and economic pressure shape these decisions.
+Approach. A short exploratory phase of eight online focus groups will refine the attributes and new-feature concepts to be measured. The main study is a single cross-sectional online survey, chosen for its speed, low cost, absence of interviewer bias and natural fit with a fully online population. Face-to-face, telephone, mail and mixed-mode designs were considered and rejected.
+Sampling. Spotify users will be selected by stratified random sampling from the consented-user database, across 20 strata (four regions × five plans), with implicit stratification by content preference. Competitor customers, for whom no frame exists, will be recruited from online panels using quotas.
+Sample size. We recommend 5,000 Spotify users (250 per stratum) and, in answer to the client's question, 2,400 competitor customers (800 per platform). This gives a margin of error of about ±1.7% for all Spotify users and ±3.5% for each competitor at 95% confidence.
+Use of client data. Spotify's records will provide the sampling frame, population weights and behavioural variables linked to each respondent, including actual upgrades and cancellations after fieldwork.
+Analysis. Factor analysis will reduce attitude batteries to key dimensions of perceived value; multiple regression will rank the drivers of conversion intention and loyalty; discriminant and logit analysis will predict actual cancellations and upgrades; and ANOVA, cross-tabulations and paired t-tests will compare regions, generations and competitors.
+Timescale. The study will be completed within six months. Further research could include a pricing field experiment, a longitudinal churn panel, a segmentation study and qualitative work with artists and creators.
+2. Summary of the Research Brief
+Spotify Technology S.A. is a global audio streaming company offering music, podcasts and audiobooks in more than 180 markets. It runs a freemium model: an advertising-supported free tier alongside paid Individual, Duo and Family plans. Personalised recommendations are central to its engagement and brand identity.
+Business objectives. Spotify aims to grow paid subscribers while improving margins: converting more free users, deepening engagement through personalisation, scaling podcasts and audiobooks, expanding in emerging markets, testing new revenue streams (live events, merchandise, superfan features) and defending its position against competitors.
+Research aims. A marketing decision problem asks what management should do; a market research problem asks what information is needed to support that decision (Malhotra et al., 2017). Table 1 links Spotify's decision problems to seven research questions, which refine the brief's aims.
+Table 1. Decision problems and research questions
+RQ
+	Marketing decision problem
+	Research question
+	RQ1
+	How should the content offer be tailored by segment?
+	How do preferences for music, podcasts and audiobooks vary by generation (Gen Z, millennials) and region?
+	RQ2
+	How can more free users be converted?
+	Which factors best predict upgrading to a paid plan?
+	RQ3
+	How can cancellations be reduced?
+	Which factors lead paid subscribers to cancel?
+	RQ4
+	Should Spotify invest further in personalisation?
+	How much does personalisation contribute to perceived value and loyalty?
+	RQ5
+	Which new features should be launched?
+	Which features generate demand, and among which segments?
+	RQ6
+	Should prices differ by market?
+	How sensitive are subscription decisions to price and financial pressure, by region?
+	RQ7
+	How should Spotify position itself against rivals?
+	How is Spotify perceived against Apple Music, YouTube Music and Amazon Music?
+	Hypotheses are possible answers to research questions (Malhotra et al., 2017). Three will be tested:
+* H1: Higher perceived value of personalisation reduces the probability of cancellation.
+* H2: Mean price sensitivity differs between regions, being highest in emerging markets.
+* H3: Gen Z and millennials differ in podcast and audiobook consumption.
+Requirements. The brief asks for at least 5,000 Spotify users segmented by tier, content preference and region, plus customers of the three main competitors, for whom Spotify requests sample size advice. An online methodology is preferred, a consented-user database will be supplied, and the study must be completed within six months.
+3. Market Context and Secondary Research
+Spotify leads a mature, highly competitive market in which its main rivals are large technology ecosystems. Apple Music, YouTube Music and Amazon Music are bundled with wider offers (Apple One, YouTube Premium, Amazon Prime), so they can be priced as add-ons. Spotify cannot match this cross-subsidy and competes instead on personalisation, catalogue breadth and the integration of music, podcasts and audiobooks in one app.
+Three trends shape the brief. First, user growth is concentrated in emerging markets, where revenue per user is lower and price sensitivity higher, so subscriber growth and margin improvement can conflict. Second, cost-of-living pressure and the number of paid subscriptions per household make streaming an easy cancellation when budgets tighten. Third, Gen Z discovers music across several platforms, including short-form video, which weakens loyalty to any single service and makes personalisation a key differentiator.
+Secondary data are collected for purposes other than the problem at hand and are quick and inexpensive to obtain (Malhotra et al., 2017). Spotify holds rich internal operational data (listening behaviour, plan history, cancellations), and company and industry reports (e.g. the IFPI Global Music Report) describe market size and competitor positions. However, these sources do not explain why listeners convert, cancel or choose a rival, nor how they value personalisation or new features, and they say nothing about competitor customers. Primary research is therefore required, with secondary data used to frame it, design the sample and enrich the analysis (Section 7).
+4. Research Design and Fieldwork
+We propose an exploratory qualitative phase followed by a conclusive, descriptive single cross-sectional survey. Exploratory research gives insight when the problem is not yet well defined; conclusive research tests hypotheses and allows findings to be projected to the population when the sample is representative (Malhotra et al., 2017). A longitudinal panel was rejected for the main study: it would answer how attitudes change over time, but not within six months.
+Phase 1 – Online focus groups (month 1). Eight online focus groups of 6–10 participants (two per region), split by tier and generation, will identify the attributes listeners use to judge streaming services and test the wording of new-feature concepts. A topic guide will keep groups comparable, and mood boards will help participants express what the Spotify brand means to them. Online groups are chosen because participants in many countries can be recruited quickly and cheaply. Results feed the questionnaire; given small, non-representative samples, they are not generalised.
+Phase 2 – Online survey (months 2–4). A mobile-first, self-completed questionnaire in local languages will be sent to Spotify users by email and in-app invitation, and to competitor customers through online access panels. Using the survey evaluation criteria (Malhotra et al., 2017), online administration is preferred because it offers:
+* Speed and cost: thousands of respondents in many countries within weeks, at almost no marginal cost.
+* No interviewer bias and better data quality: consistent wording, automatic routing and validity checks.
+* Access to the target group: every streaming user is an internet user, so the usual weakness of online surveys (web access) does not apply, and Spotify's database solves the sampling frame problem for its users.
+* Diversity of questions: long rating batteries and visual concept boards are easy to show on screen.
+Methods rejected. Face-to-face interviews give high quality and sample control but are costly and slow across 180 markets and introduce interviewer bias. Telephone interviews lack a frame of phone numbers and suit only short, simple scales. Postal surveys suffer high non-response and slow returns. Mixed-mode was rejected because the population is entirely online, so extra modes would add cost and mode effects without improving coverage.
+Table 2. Timescale (six months)
+Month
+	Activity
+	1
+	Secondary data review; online focus groups
+	2
+	Questionnaire design, translation and pilot test
+	3–4
+	Main fieldwork; linking with Spotify records
+	5
+	Data preparation and multivariate analysis
+	6
+	Final report and presentation
+	5. Sampling Method and Sampling Frame
+The target population is listeners aged 18 and over whose main streaming service is Spotify (free or paid) or one of its three main competitors. Minors are excluded for consent reasons; Gen Z is covered through the 18–29 band.
+Spotify users: stratified random sampling. The sampling frame is Spotify's consented-user database, divided into 20 strata: four regions (Europe, North America, Latin America, Rest of World) × five plans (Free, Individual, Duo, Family, Student). Within each stratum, users are sorted by dominant content type and selected systematically with a random start, so music, podcast and audiobook listeners are represented proportionally. Stratification increases precision and guarantees enough respondents in small but strategic groups; allocation is equal per stratum (Section 9) and results are weighted back to population shares.
+Consenting users may be more engaged than the full base, a sampling frame error (Malhotra et al., 2017). Respondents will therefore be compared with Spotify's aggregate behavioural profiles and weighted. Non-response error is reduced with two reminders and a neutral incentive (a voucher, not free Premium, which would bias answers about paying).
+Competitor customers: quota sampling. With no frame available, competitor customers are recruited from online access panels with quotas by platform, region, age and gender, after screening out Spotify payers. As a non-probability sample, its confidence intervals are indicative only.
+Table 3. Sampling methods considered
+Method
+	Decision
+	Reason
+	Simple random
+	Rejected
+	Too few respondents in small plans and regions
+	Cluster
+	Rejected
+	Suited to face-to-face fieldwork; less precise
+	Quota (Spotify users)
+	Rejected
+	A probability frame exists
+	Convenience / snowball
+	Rejected
+	Selection bias; not generalisable
+	Stratified random (Spotify)
+	Chosen
+	Precise; allows subgroup estimates
+	Quota (competitors)
+	Chosen
+	Only option without a frame
+	6. Information to be Collected
+The questionnaire (Appendix A) collects only what Spotify's records cannot provide: attitudes, perceptions and intentions. Behavioural data are appended afterwards (Section 7), which shortens the survey and avoids recall errors.
+Attitudes are measured with non-comparative itemised scales: 7-point Likert items and 7-point attribute ratings. Seven balanced categories with an odd midpoint give a meaningful neutral answer while keeping discrimination (Malhotra et al., 2017). These scales are treated as interval data, which allows means, regression and ANOVA. Multi-item scales will be checked for reliability with Cronbach's alpha, where a value of 0.6 or less is unsatisfactory.
+Following questionnaire design guidance (Malhotra et al., 2017), filter questions route free users, paid users and competitor customers to their relevant blocks; the funnel approach moves from general habits to specific attitudes; and sensitive items such as income come last. Dummy tables for each research question were prepared first to ensure every analysis has the data it needs.
+Table 4. Information collected
+Block
+	Information
+	Measurement
+	RQ
+	Screening
+	Age, main service, plan
+	Nominal
+	All
+	A
+	Importance and use of each content type
+	7-point rating
+	RQ1
+	B
+	Perceived value of personalisation
+	7-point Likert
+	RQ4
+	C
+	Reasons for staying free; upgrade intention
+	7-point Likert; 0–10
+	RQ2
+	D
+	Cancellation intention and reasons
+	7-point Likert; 0–10
+	RQ3
+	E
+	Price reaction, willingness to pay, financial pressure
+	Nominal; ordinal; Likert
+	RQ6
+	F
+	Interest in new features
+	5-point intention
+	RQ5
+	G
+	Spotify and a competitor rated on the same attributes
+	7-point rating
+	RQ7
+	H
+	Satisfaction and likelihood to recommend
+	7-point; 0–10
+	RQ4
+	I
+	Gender, country, income, household
+	Nominal; ordinal
+	RQ1, RQ6
+	7. Use of Client Data
+Spotify's consented-user database is internal secondary data generated by day-to-day operations (Malhotra et al., 2017). It will be used in four ways:
+1. Sampling frame. Region, plan and dominant content type define the strata (Section 5).
+2. Fusing behavioural and attitudinal data. Through a pseudonymised identifier, each respondent's answers are linked to listening hours, content mix, tenure, plan history, use of personalised playlists and past cancellations. Combining operational and survey data builds richer customer profiles than either source alone (Malhotra et al., 2017) and shows whether stated attitudes match behaviour.
+3. Weighting and non-response checks. Population counts per stratum are used for weighting, and non-respondents' behaviour is compared with respondents' to detect non-response bias.
+4. Observed outcomes. Three months after fieldwork, Spotify flags which respondents actually upgraded or cancelled. These binary outcomes become the dependent variables of the discriminant and logit models (Section 8), which is more reliable than stated intention.
+Only users who consented to research contact are included, and the research team never receives names or payment details.
+8. Multivariate Analysis Techniques
+The techniques are applied in sequence, each matched to the nature of its dependent variable: metric outcomes use regression or ANOVA, and categorical outcomes use discriminant or logit analysis (Malhotra et al., 2017).
+Factor analysis (RQ4, RQ7). Blocks B, C, D and G contain about 30 correlated Likert items. Principal components analysis will reduce them to a few underlying dimensions, for example discovery and personalisation, value for money and content breadth. Bartlett's test of sphericity and a KMO value above 0.5 will confirm the data are suitable; factors will be retained using eigenvalues above 1 and the scree plot, and varimax rotation will ease interpretation. With 30 items, the class guideline of 4–5 observations per variable is easily met. Spotify learns which few dimensions drive perceived value, and the uncorrelated factor scores avoid multicollinearity in the models below.
+Multiple regression (RQ2, RQ4, RQ6). Stated upgrade intention (free users) and recommendation likelihood (all users) will be regressed on factor scores, perceived price and financial pressure, with dummy variables for region and plan. Adjusted R² will compare models, and an interaction between financial pressure and region will test whether economic conditions matter more in emerging markets. Standardised coefficients rank the drivers, telling Spotify whether to invest in personalisation, content or pricing.
+Discriminant and binary logit analysis (RQ2, RQ3, H1). Whether a user actually cancelled (or upgraded) is a binary outcome, for which regression can predict probabilities outside 0–1. Logit models will estimate the probability of cancelling from factor scores, tenure and listening hours; each odds ratio shows how one extra point on a factor changes the odds of churn, and the Wald test checks H1. Two-group discriminant analysis will confirm which predictors best separate churners from stayers. Models are estimated on an analysis sample and validated on a holdout sample using the hit ratio. Because errors are asymmetric, the confusion matrix matters: a false positive wastes a retention offer, while a false negative loses a subscriber's lifetime value. Spotify can then target retention offers at users with the highest predicted risk.
+One-way ANOVA (RQ1, RQ6, H2, H3). ANOVA will test whether mean price sensitivity differs across the four regions (H2) and mean podcast and audiobook use differs across age groups (H3). Tukey intervals will identify which pairs differ. Large, roughly equal group sizes make the test robust to departures from its assumptions.
+Cross-tabulation and paired t-tests (RQ1, RQ5, RQ7). Chi-square tests with Cramér's V will relate content preference and new-feature interest to generation and region. Paired t-tests will compare each respondent's ratings of Spotify and their main competitor on every attribute, showing where Spotify leads or lags.
+9. Sample Size Determination
+We recommend 5,000 Spotify users (250 per stratum) and 2,400 competitor customers (800 per platform): 7,400 completed interviews in total.
+Most key estimates are proportions (e.g. the share of free users likely to upgrade). A confidence interval for a proportion is p ± z√(p(1 − p)/n), so the sample size needed for a margin of error D is:
+n = \frac{z^2 \, \pi (1 - \pi)}{D^2}
+We use 95% confidence (z = 1.96) and the conservative value π = 0.5, which gives the largest n when the true proportion is unknown.
+Spotify users. Equal allocation of 250 respondents to each of the 20 strata meets the client's minimum and allows every region–plan combination to be analysed. Weighting reduces precision; assuming a design effect of 1.5, the effective sample is about 3,333.
+Competitor customers. The main need is a reliable estimate for each competitor so that its customers can be compared with Spotify's. A margin of ±3.5% per platform requires n = 1.96² × 0.25 / 0.035² ≈ 784, rounded to 800 (200 per region), so three platforms require 2,400 respondents. This also leaves enough cases to split into analysis and holdout samples.
+Table 5. Margins of error at 95% confidence (π = 0.5)
+Group
+	n
+	Margin
+	All Spotify users (effective)
+	3,333
+	±1.7%
+	Spotify users per region
+	1,250
+	±2.8%
+	Spotify users per plan
+	1,000
+	±3.1%
+	Spotify stratum (region × plan)
+	250
+	±6.2%
+	Competitor customers per platform
+	800
+	±3.5%
+	Competitor platform × region
+	200
+	±6.9%
+	Assuming a 15% response rate, about 34,000 Spotify users must be invited. Competitor margins assume random sampling and are approximate for quota samples. A larger sample reduces only random sampling error, not non-sampling errors such as non-response, so the total error must be managed (Malhotra et al., 2017).
+10. Further Research
+* Pricing field experiment. Stated price reactions may not reflect real behaviour. A post-test-only control group design, randomly assigning new free users in selected markets to different prices or a superfan add-on, would measure the causal effect of price on conversion, with randomisation controlling extraneous variables. A field setting gives higher external validity than a laboratory (Malhotra et al., 2017).
+* Longitudinal panel. Re-surveying a panel of respondents each quarter would show how attitudes change before users cancel or switch, supporting an early-warning churn model.
+* Segmentation study. Cluster analysis, the case-wise counterpart of factor analysis, could group listeners on the factor scores from this study into segments for targeted plans.
+* Qualitative research with creators. Strengthening relationships with artists and creators is an objective the listener survey does not address; focus groups and projective techniques with creators would explore it.
+References
+Malhotra, N.K., Nunan, D. and Birks, D.F. (2017) Marketing Research: An Applied Approach. 5th edn. Harlow: Pearson.
+Spotify Technology S.A. (2026) ST3188 Case Study: Client Brief. London: The London School of Economics and Political Science.
+Appendix A: Questionnaire
+Online, self-completed, mobile-first; approx. 15 minutes. Translated into local languages. Routing instructions in brackets. Behavioural data (listening hours, plan history, cancellations) are appended from Spotify records and not asked.
+Introduction. Thank you for taking part in this study about music, podcast and audiobook streaming. It takes about 15 minutes. Your answers are confidential and will be analysed only in aggregate.
+Screening
+S1. How old are you? [Under 18 → close]
+S2. Which audio streaming service do you use most? (Spotify / Apple Music / YouTube Music / Amazon Music / Other → close / None → close)
+S3. [Spotify] Which Spotify plan do you currently have? (Free / Individual / Duo / Family / Student / Don't know)
+S4. [Competitor users] Do you currently pay for Spotify? (Yes → close / No)
+A. Content preferences
+A1. How important is each type of content to you? (1 = Not at all important, 7 = Extremely important): Music · Podcasts · Audiobooks
+A2. In a typical week, how many hours do you spend listening to each? (0 / <1 / 1–5 / 6–10 / 11–20 / >20): Music · Podcasts · Audiobooks [competitor users only; Spotify data appended for Spotify users]
+A3. How do you usually discover new music? (Select all) Platform recommendations / Short-form video apps / Friends / Radio / Artist social media / Other
+B. Personalisation
+B1. How much do you agree with each statement about [main service]? (1 = Strongly disagree, 7 = Strongly agree)
+1. Its recommendations match my taste.
+2. It helps me discover artists I would not find otherwise.
+3. Personalised playlists are a main reason I use it.
+4. It understands my mood and listening context.
+5. Personalisation makes it hard to switch to another service.
+6. I would miss its recommendations if I left.
+C. Conversion [Spotify Free users only]
+C1. How much do you agree with each reason for staying on the free plan? (1–7): Premium is too expensive · Adverts don't bother me · I don't listen enough to justify paying · I already pay for other subscriptions · Free features are enough for me
+C2. How likely are you to upgrade to a paid Spotify plan in the next 6 months? (0 = Not at all likely, 10 = Extremely likely)
+C3. Which of these would most encourage you to upgrade? (Select up to two) Lower price / Student or regional discount / Ad-free podcasts / Audiobook hours / Offline listening / Better sound quality / Free trial
+D. Churn [paid users only]
+D1. How likely are you to cancel your paid plan in the next 6 months? (0–10)
+D2. How much do you agree with each statement? (1–7): The price is fair for what I get · I use it enough to justify the cost · I am thinking of switching to another service · I would downgrade to Free before cancelling completely
+D3. Have you ever cancelled a paid streaming subscription? (Yes, Spotify / Yes, another service / No) [If yes] Main reason: Price / Not using it enough / Switched to a bundle / Content missing / Financial reasons / Other
+E. Price and economic conditions
+E1. If the price of your plan [or of Spotify Premium, for free and competitor users] rose by 10%, what would you most likely do? (Keep it / Switch to a cheaper plan / Switch provider / Cancel / Don't know)
+E2. What is the most you would pay per month for your preferred plan? (Bands in local currency)
+E3. How much do you agree? (1–7): I am cutting back on non-essential spending · My household finances are tighter than a year ago · I have too many paid subscriptions
+F. Potential new features
+F1. How likely would you be to pay extra for each of the following? (1 = Definitely would not, 5 = Definitely would): Superfan tier (early releases, exclusive content) · Priority access to concert tickets · Official artist merchandise in the app · High-fidelity audio · Additional audiobook hours
+G. Competitor perceptions
+G1. Please rate Spotify and [main competitor or, for Spotify users, the competitor they know best] on each attribute (1 = Very poor, 7 = Excellent): Value for money · Music catalogue · Podcast offering · Audiobook offering · Quality of recommendations · Ease of use · Sound quality · Integration with my other devices and services
+G2. [Competitor users] What is the main reason you chose [competitor] over Spotify? (Included in a bundle I already pay for / Better price / Device compatibility / Catalogue / Recommendations / Other)
+H. Loyalty
+H1. How likely are you to recommend [main service] to a friend? (0–10)
+H2. Overall, how satisfied are you with [main service]? (1 = Very dissatisfied, 7 = Very satisfied)
+I. Demographics
+I1. Gender (Woman / Man / Non-binary / Prefer not to say)
+I2. Country of residence
+I3. Monthly household income (local bands; Prefer not to say)
+I4. Number of people in household
+I5. Main occupation (Student / Employed / Self-employed / Unemployed / Retired / Other)
+Thank you for your time.
